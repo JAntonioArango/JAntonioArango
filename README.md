@@ -6,7 +6,7 @@ Java Developer
 
 Focused on problem-solving with attention to detail. Eager to contribute engineering experience and expanding IT skills to collaborative development teams.
 
-* 🧠  I'm learning Cloud development
+🧠  Currently learning Cloud development
 
 ### Skills
 
